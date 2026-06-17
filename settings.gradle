@@ -1,1 +1,3 @@
 rootProject.name = 'mcp-server'
+
+include 'server', 'client'
